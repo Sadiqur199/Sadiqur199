@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://sadiqur199.github.io/Sadiq-portfolio/#](https://persolnal-site.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sadiqur199.github.io/Sadiq-portfolio/#](https://my-landing-page-199.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
