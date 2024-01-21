@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [](https://devsadiq.com/)
+- 👨‍💻 All of my projects are available at [https://devsadiq.com/](https://devsadiq.com/)
 
 - 💬 Ask me about **MERN**
 
