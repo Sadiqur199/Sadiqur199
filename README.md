@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://sadiqur199.github.io/Sadiq-portfolio/#](https://devsadiq.com/)
+- 👨‍💻 All of my projects are available at [](https://devsadiq.com/)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **sadiqurrhaman199@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1hjKijQxO5v_gXu9_sBnStKcuIa29a4wY/view?usp=sharing](https://drive.google.com/file/d/1iI9NzGdoyKjwXMwMuW-C4iy--9IHFC9C/view?usp=sharing)
+- 📄 My Resume [](https://drive.google.com/file/d/1-XQATTm6M7a-S0RDQ_8N7_FK7Nnbt5QU/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny 😁**
 
