@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sadiqurrhaman199@gmail.com**
 
-- 📄 My Resume [](https://drive.google.com/file/d/1-XQATTm6M7a-S0RDQ_8N7_FK7Nnbt5QU/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1-XQATTm6M7a-S0RDQ_8N7_FK7Nnbt5QU/view?usp=sharing](https://drive.google.com/file/d/1-XQATTm6M7a-S0RDQ_8N7_FK7Nnbt5QU/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny 😁**
 
