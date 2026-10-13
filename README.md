@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Sadiqur199/Sadiqur199/main/assets/header.svg" width="100%" alt="Sadiqur Rahman - MERN Stack Developer" />
 
-<a href="https://devsadiq.com/">
+<a href="https://devsadiq.netlify.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+3%2B+Years+Experience;Web+%C2%B7+Mobile+%C2%B7+Software+%C2%B7+POS+%C2%B7+E-Commerce;Management+Systems+%26+WordPress+Solutions;Let%27s+build+your+next+big+thing" alt="Typing animation" />
 </a>
 
@@ -13,11 +13,11 @@
 </p>
 
 <p>
-  <a href="https://devsadiq.com/"><img src="https://img.shields.io/badge/Portfolio-devsadiq.com-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://devsadiq.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-devsadiq.com-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/sadiqur-rahman-3255b11a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sadiqurrhaman199@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/8801775070762"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://drive.google.com/file/d/1QypCBg3iDUfmEmLi-L5tYIqrGO6Gqxmd/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-24292f?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1G21mJJwhQdl_kEXxXm-cNxpmWa3GHwTp/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-24292f?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 </p>
 
 </div>
@@ -29,10 +29,10 @@
 I'm a **Full Stack Developer from Dhaka, Bangladesh** with **3+ years of experience** building web apps, mobile apps, business software, POS systems, e-commerce stores and management systems, from idea to production.
 
 - 🎓 B.Sc. in **Computer Science & Engineering**
-- 🏢 Working at **Sustainable and Renewable Energy Development Authority (SREDA)**
+- 🏢 Currently working at the **Office of the Chief Inspector of Boilers** (বাংলাদেশের প্রধান বয়লার পরিদর্শকের কার্যালয়), under the **Ministry of Industries**, Bangladesh
 - 🧩 Hands-on experience with **WordPress** development
 - 📱 Leveling up in **React Native** for cross-platform mobile apps
-- 🌐 Portfolio & all projects: **[devsadiq.com](https://devsadiq.com/)**
+- 🌐 Portfolio & all projects: **[devsadiq.com](https://devsadiq.netlify.app/)**
 - 💬 WhatsApp: **+880 1775 070762** · 📫 **sadiqurrhaman199@gmail.com**
 
 ---
@@ -73,7 +73,7 @@ I'm a **Full Stack Developer from Dhaka, Bangladesh** with **3+ years of experie
 </div>
 
 <div align="center">
-  <sub>More projects: <a href="https://devsadiq.com/">devsadiq.com</a> · <a href="https://github.com/Sadiqur199?tab=repositories">all repositories</a></sub>
+  <sub>More projects: <a href="https://devsadiq.netlify.app/">devsadiq.com</a> · <a href="https://github.com/Sadiqur199?tab=repositories">all repositories</a></sub>
 </div>
 
 ---
