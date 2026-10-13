@@ -32,7 +32,7 @@ I'm a **Full Stack Developer from Dhaka, Bangladesh** with **3+ years of experie
 - 🏢 Working at **Sustainable and Renewable Energy Development Authority (SREDA)**
 - 🧩 Hands-on experience with **WordPress** development
 - 📱 Leveling up in **React Native** for cross-platform mobile apps
-- 🌐 Portfolio & all projects: **[devsadiq.com](https://devsadiq.com/)**
+- 🌐 Portfolio & all projects: **[devsadiq.com](https://devsadiq.netlify.app/)**
 - 💬 WhatsApp: **+880 1775 070762** · 📫 **sadiqurrhaman199@gmail.com**
 
 ---
