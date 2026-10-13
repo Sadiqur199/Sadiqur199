@@ -83,7 +83,20 @@ I'm a **Full Stack Developer from Dhaka, Bangladesh** with **3+ years of experie
 Ranking of my public repositories by **number of my commits**.
 
 <!--LEADERBOARD:START-->
-*Leaderboard will appear here after the first workflow run.*
+| Rank | Repository | Commits | Progress | ⭐ | Language |
+|:---:|---|:---:|---|:---:|---|
+| 🥇 | [zas-71](https://github.com/Sadiqur199/zas-71) | **61** | `███████████████` | 1 | JavaScript |
+| 🥈 | [Bd-shop](https://github.com/Sadiqur199/Bd-shop) | **60** | `███████████████` | 2 | JavaScript |
+| 🥉 | [ToyCar](https://github.com/Sadiqur199/ToyCar) | **51** | `█████████████░░` | 1 | JavaScript |
+| #4 | [ecommerce-Front-end-part](https://github.com/Sadiqur199/ecommerce-Front-end-part) | **41** | `██████████░░░░░` | 1 | JavaScript |
+| #5 | [Sadiqur199](https://github.com/Sadiqur199/Sadiqur199) | **27** | `███████░░░░░░░░` | 1 | Python |
+| #6 | [Landing-Page](https://github.com/Sadiqur199/Landing-Page) | **23** | `██████░░░░░░░░░` | 1 | JavaScript |
+| #7 | [Sadiqur-Rahman-Frontend-Developer](https://github.com/Sadiqur199/Sadiqur-Rahman-Frontend-Developer) | **21** | `█████░░░░░░░░░░` | 1 | JavaScript |
+| #8 | [toy-car-server](https://github.com/Sadiqur199/toy-car-server) | **15** | `████░░░░░░░░░░░` | 1 | JavaScript |
+| #9 | [Travel-web](https://github.com/Sadiqur199/Travel-web) | **15** | `████░░░░░░░░░░░` | 2 | SCSS |
+| #10 | [Clothing-web](https://github.com/Sadiqur199/Clothing-web) | **14** | `███░░░░░░░░░░░░` | 2 | JavaScript |
+
+<sub>Total commits in top 10 repos: **328** · auto-updated by GitHub Actions</sub>
 <!--LEADERBOARD:END-->
 
 ---
